@@ -1,0 +1,572 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Smart Calendars AI//CalFeed//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ECB Governing Council Calendar
+X-WR-CALDESC:Every European Central Bank Governing Council monetary-policy 
+ meeting and accounts (minutes-equivalent) release. Monetary-policy decisio
+ ns are timed at 14:15 CET with the press conference at 14:45 CET. ECB staf
+ f macroeconomic projections are published alongside decisions in March\, J
+ une\, September\, and December.
+REFRESH-INTERVAL;VALUE=DURATION:PT24H
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.78a644f12996744bd987e390ad84588d@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:Monetary policy accounts - European Central Bank
+LOCATION;LANGUAGE=en:Frankfurt
+DESCRIPTION;LANGUAGE=en:Release of monetary policy accounts for the April 3
+ 
+ 0\, 2026 meeting.
+CATEGORIES:Finance
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.b4d78f7e3a35431f368770e14bc466c1@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Monetary Policy Accounts Release
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Release of the monetary policy accounts (minutes-eq
+ 
+ uivalent) for the June 2026 meeting.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:PT9H
+UID:17799
+ 13245594-574464@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-574464@smar
+ tcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.6e0471f958852268a58e6a896776c207@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Monetary Policy Accounts Release
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Release of the monetary policy accounts (minutes-eq
+ 
+ uivalent) for the July 2026 meeting.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:PT9H
+UID:17799
+ 13245594-55933@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-55933@smartc
+ alendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.0d3cf217327a71aa18f637335f014c35@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Monetary Policy Accounts Release
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Release of the monetary policy accounts (minutes-eq
+ 
+ uivalent) for the September 2026 meeting.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:PT9H
+UID:17799
+ 13245594-760411@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-760411@smar
+ tcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.d27a9efbd87566a10f5e2ca6f8b1cdd9@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Monetary Policy Accounts Release
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Release of the monetary policy accounts (minutes-eq
+ 
+ uivalent) for the October 2026 meeting.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:PT9H
+UID:17799
+ 13245594-951029@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-951029@smar
+ tcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.180f0bd666401de11a6f873b05fbbd4f@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Monetary Policy Accounts Release
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Release of the monetary policy accounts (minutes-eq
+ 
+ uivalent) for the December 2026 meeting.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:PT9H
+UID:17799
+ 13245594-794318@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-794318@smar
+ tcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.765cb5e5dc8eb45439b2d995bc75c92c@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Monetary Policy Accounts Release
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Release of the monetary policy accounts (minutes-eq
+ 
+ uivalent) for the February 2027 meeting.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:PT9H
+UID:17799
+ 13245594-920009@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-920009@smar
+ tcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.5d1eaf2655e86fd82b098446ffa602b8@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Monetary Policy Accounts Release
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Release of the monetary policy accounts (minutes-eq
+ 
+ uivalent) for the March 2027 meeting.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:PT9H
+UID:17799
+ 13245594-258191@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-258191@smar
+ tcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.b46d58d1171756c7d85a3fece9934ac5@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Monetary Policy Accounts Release
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Release of the monetary policy accounts (minutes-eq
+ 
+ uivalent) for the April 2027 meeting.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:PT9H
+UID:17799
+ 13245594-630172@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-630172@smar
+ tcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.fed0deab4a6d02da72d09b9692967fc9@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20260611T121500Z
+DTEND:20260611T121500Z
+SEQUENCE:1
+SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Monetary policy decision statement release. ECB sta
+ 
+ ff macroeconomic projections are published alongside this decision.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-795833@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-795833@sm
+ artcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.26a6dfa23eae61a60238dd29ecf46a58@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20260611T124500Z
+DTEND:20260611T124500Z
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Press conference following the monetary policy deci
+ 
+ sion.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-643755@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-643755@sm
+ artcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.daed9a98f1951ed707af128500ec15ed@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20260723T121500Z
+DTEND:20260723T121500Z
+SEQUENCE:1
+SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Monetary policy decision statement release.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-287642@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-287642@sm
+ artcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.3cc7b596fd7f99a6656944dcac85b9a1@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20260723T124500Z
+DTEND:20260723T124500Z
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Press conference following the monetary policy deci
+ 
+ sion.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-489163@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-489163@sm
+ artcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.ffc87021f2296a3c5a75b333644f8be6@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20260910T121500Z
+DTEND:20260910T121500Z
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Monetary policy decision statement release. ECB sta
+ 
+ ff macroeconomic projections are published alongside this decision.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-4955@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-4955@smartc
+ alendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.40efb3778ce7a66c033d0ab8527c5f47@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20260910T124500Z
+DTEND:20260910T124500Z
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Press conference following the monetary policy deci
+ 
+ sion.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-240046@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-240046@sm
+ artcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.2c72ae296e621fa96854dbd0dbc3e5ce@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20261029T131500Z
+DTEND:20261029T131500Z
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Monetary policy decision statement release.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-454252@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-454252@sm
+ artcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.3638345f99f9e2004f2bdfa9a98ce280@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20261029T134500Z
+DTEND:20261029T134500Z
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Press conference following the monetary policy deci
+ 
+ sion.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-736540@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-736540@sm
+ artcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.1c3dee18c12b771ad97a33a842f1c6d7@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20261217T131500Z
+DTEND:20261217T131500Z
+SEQUENCE:1
+SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Monetary policy decision statement release. ECB sta
+ 
+ ff macroeconomic projections are published alongside this decision.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-464850@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-464850@sm
+ artcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.f7d093dd6688c170652cbe0130237e9c@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20261217T134500Z
+DTEND:20261217T134500Z
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Press conference following the monetary policy deci
+ 
+ sion.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-94157@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-94157@smar
+ tcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.0826debc1c3464cc5793acb6b8bc2268@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20270204T131500Z
+DTEND:20270204T131500Z
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Monetary policy decision statement release.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-840536@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-840536@sm
+ artcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.41f15ec08eaa0576c1cf3358216972cf@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20270204T134500Z
+DTEND:20270204T134500Z
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Press conference following the monetary policy deci
+ 
+ sion.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-294221@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-294221@sm
+ artcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.ed45ac6ee7b1ec7f5bc9cfd44c670972@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20270318T131500Z
+DTEND:20270318T131500Z
+SEQUENCE:1
+SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Monetary policy decision statement release. ECB sta
+ 
+ ff macroeconomic projections are published alongside this decision.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-72919@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-72919@smar
+ tcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.f175fbd62a520ee13e66aafb33d2766b@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20270318T134500Z
+DTEND:20270318T134500Z
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Press conference following the monetary policy deci
+ 
+ sion.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-958389@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-958389@sm
+ artcalendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.eac385035ce35661656274ee6d084dfc@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20270429T121500Z
+DTEND:20270429T121500Z
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Monetary policy decision statement release.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-5327@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-5327@smartc
+ alendars.ai
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.ca1075af6ea41a13de874b46437ad161@s
+ martcalendars.ai
+DTSTAMP:20260527T202045Z
+DTSTART:20270429T124500Z
+DTEND:20270429T124500Z
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
+LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
+DESCRIPTION;LANGUAGE=en:Press conference following the monetary policy deci
+ 
+ sion.
+CATEGORIES:Finance
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+UID:177
+ 9913245594-75663@smartcalendars.ai
+X-WR-ALARMUID:1779913245594-75663@smar
+ tcalendars.ai
+END:VALARM
+END:VEVENT
+END:VCALENDAR
