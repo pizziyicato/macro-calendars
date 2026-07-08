@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇧🇷 Brazil
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:copom-20260805@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260805T213000Z
+SUMMARY:🇧🇷 Copom Selic decision (~18:30 BRT)
+DESCRIPTION:Two-day meeting Aug 4-5\, per BCB official 2026 calendar. Stat
+ ement after 18:30 Brasilia\; minutes following Tuesday 08:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:copom-20260916@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260916T213000Z
+SUMMARY:🇧🇷 Copom Selic decision (~18:30 BRT)
+DESCRIPTION:Two-day meeting Sep 15-16\, per BCB official 2026 calendar. St
+ atement after 18:30 Brasilia\; minutes following Tuesday 08:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:copom-20261104@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261104T213000Z
+SUMMARY:🇧🇷 Copom Selic decision (~18:30 BRT)
+DESCRIPTION:Two-day meeting Nov 3-4\, per BCB official 2026 calendar. Stat
+ ement after 18:30 Brasilia\; minutes following Tuesday 08:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:copom-20261209@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261209T213000Z
+SUMMARY:🇧🇷 Copom Selic decision (~18:30 BRT)
+DESCRIPTION:Two-day meeting Dec 8-9\, per BCB official 2026 calendar. Stat
+ ement after 18:30 Brasilia\; minutes following Tuesday 08:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:brazil-r1@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:🇧🇷 Brazil — general election\, Round 1
+DESCRIPTION:Presidency (Lula seeking re-election)\, full Congress\, govern
+ ors. Runoff 25 Oct if required. Major BRL/rates event.
+END:VEVENT
+BEGIN:VEVENT
+UID:brazil-r2@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:🇧🇷 Brazil — presidential runoff (if required)
+DESCRIPTION:Second round if no first-round majority.
+END:VEVENT
+BEGIN:VEVENT
+UID:copom-20260128@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260128T213000Z
+SUMMARY:🇧🇷 Copom Selic decision (~18:30 BRT)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:copom-20260318@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260318T213000Z
+SUMMARY:🇧🇷 Copom Selic decision (~18:30 BRT)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:copom-20260429@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260429T213000Z
+SUMMARY:🇧🇷 Copom Selic decision (~18:30 BRT)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:copom-20260617@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260617T213000Z
+SUMMARY:🇧🇷 Copom Selic decision (~18:30 BRT)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+END:VCALENDAR

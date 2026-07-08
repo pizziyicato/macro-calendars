@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇬🇲 The Gambia
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:gambia-2026@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🇬🇲 The Gambia — presidential election · est
+DESCRIPTION:December 2026 announced\; first-Saturday convention suggests 5
+  Dec. Confirm with IEC.
+END:VEVENT
+END:VCALENDAR

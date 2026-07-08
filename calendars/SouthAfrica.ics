@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇿🇦 South Africa
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:sarb-20260723@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260723T130000Z
+SUMMARY:🇿🇦 SARB MPC repo rate decision (15:00 SAST) · est
+DESCRIPTION:23 Jul. Per SARB 2026 pattern (6 meetings/yr)\; confirm on res
+ bank.co.za.
+END:VEVENT
+BEGIN:VEVENT
+UID:sarb-20260923@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260923T130000Z
+SUMMARY:🇿🇦 SARB MPC repo rate decision (15:00 SAST) · est
+DESCRIPTION:23 Sep. Per SARB 2026 pattern (6 meetings/yr)\; confirm on res
+ bank.co.za.
+END:VEVENT
+BEGIN:VEVENT
+UID:sarb-20261119@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261119T130000Z
+SUMMARY:🇿🇦 SARB MPC repo rate decision (15:00 SAST) · est
+DESCRIPTION:19 Nov. Per SARB 2026 pattern (6 meetings/yr)\; confirm on res
+ bank.co.za.
+END:VEVENT
+END:VCALENDAR

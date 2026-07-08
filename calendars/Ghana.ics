@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇬🇭 Ghana
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:bog-20260727@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260727T110000Z
+SUMMARY:🇬🇭 Bank of Ghana MPC decision (~11:00 Accra) · est
+DESCRIPTION:Bi-monthly last-Monday press conference convention. Pattern-de
+ rived date\; confirm on the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:bog-20260928@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260928T110000Z
+SUMMARY:🇬🇭 Bank of Ghana MPC decision (~11:00 Accra) · est
+DESCRIPTION:Bi-monthly last-Monday press conference convention. Pattern-de
+ rived date\; confirm on the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:bog-20261130@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261130T110000Z
+SUMMARY:🇬🇭 Bank of Ghana MPC decision (~11:00 Accra) · est
+DESCRIPTION:Bi-monthly last-Monday press conference convention. Pattern-de
+ rived date\; confirm on the central bank's site before trading it.
+END:VEVENT
+END:VCALENDAR

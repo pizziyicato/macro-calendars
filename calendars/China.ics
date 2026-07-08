@@ -1,0 +1,216 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇨🇳 China
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:lpr-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260720T010000Z
+SUMMARY:🇨🇳 PBOC Loan Prime Rate fixing (09:00 Beijing) · est
+DESCRIPTION:20 Jul. Convention: 20th of month or next business day.
+END:VEVENT
+BEGIN:VEVENT
+UID:lpr-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260820T010000Z
+SUMMARY:🇨🇳 PBOC Loan Prime Rate fixing (09:00 Beijing) · est
+DESCRIPTION:20 Aug. Convention: 20th of month or next business day.
+END:VEVENT
+BEGIN:VEVENT
+UID:lpr-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260921T010000Z
+SUMMARY:🇨🇳 PBOC Loan Prime Rate fixing (09:00 Beijing) · est
+DESCRIPTION:21 Sep (20th=Sun). Convention: 20th of month or next business 
+ day.
+END:VEVENT
+BEGIN:VEVENT
+UID:lpr-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261020T010000Z
+SUMMARY:🇨🇳 PBOC Loan Prime Rate fixing (09:00 Beijing) · est
+DESCRIPTION:20 Oct. Convention: 20th of month or next business day.
+END:VEVENT
+BEGIN:VEVENT
+UID:lpr-202611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261120T010000Z
+SUMMARY:🇨🇳 PBOC Loan Prime Rate fixing (09:00 Beijing) · est
+DESCRIPTION:20 Nov. Convention: 20th of month or next business day.
+END:VEVENT
+BEGIN:VEVENT
+UID:lpr-202612@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261221T010000Z
+SUMMARY:🇨🇳 PBOC Loan Prime Rate fixing (09:00 Beijing) · est
+DESCRIPTION:21 Dec (20th=Sun). Convention: 20th of month or next business 
+ day.
+END:VEVENT
+BEGIN:VEVENT
+UID:cnpmi-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260731T013000Z
+SUMMARY:🇨🇳 NBS official PMI — July (09:30 CST) · est
+DESCRIPTION:Last-calendar-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:cnpmi-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260831T013000Z
+SUMMARY:🇨🇳 NBS official PMI — August (09:30 CST) · est
+DESCRIPTION:Last-calendar-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:cnpmi-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260930T013000Z
+SUMMARY:🇨🇳 NBS official PMI — September (09:30 CST) · est
+DESCRIPTION:Last-calendar-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:cnpmi-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261031T013000Z
+SUMMARY:🇨🇳 NBS official PMI — October (09:30 CST) · est
+DESCRIPTION:Last-calendar-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:cnpmi-202611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261130T013000Z
+SUMMARY:🇨🇳 NBS official PMI — November (09:30 CST) · est
+DESCRIPTION:Last-calendar-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:cnpmi-202612@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261231T013000Z
+SUMMARY:🇨🇳 NBS official PMI — December (09:30 CST) · est
+DESCRIPTION:Last-calendar-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:cncpi-202606@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260709T013000Z
+SUMMARY:🇨🇳 CPI + PPI — June (09:30 CST) · est
+DESCRIPTION:~9th of month convention\; confirm on stats.gov.cn.
+END:VEVENT
+BEGIN:VEVENT
+UID:cncpi-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260810T013000Z
+SUMMARY:🇨🇳 CPI + PPI — July (09:30 CST) · est
+DESCRIPTION:~9th of month convention\; confirm on stats.gov.cn.
+END:VEVENT
+BEGIN:VEVENT
+UID:cncpi-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260909T013000Z
+SUMMARY:🇨🇳 CPI + PPI — August (09:30 CST) · est
+DESCRIPTION:~9th of month convention\; confirm on stats.gov.cn.
+END:VEVENT
+BEGIN:VEVENT
+UID:cncpi-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261009T013000Z
+SUMMARY:🇨🇳 CPI + PPI — September (09:30 CST) · est
+DESCRIPTION:~9th of month convention\; confirm on stats.gov.cn.
+END:VEVENT
+BEGIN:VEVENT
+UID:cncpi-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261109T013000Z
+SUMMARY:🇨🇳 CPI + PPI — October (09:30 CST) · est
+DESCRIPTION:~9th of month convention\; confirm on stats.gov.cn.
+END:VEVENT
+BEGIN:VEVENT
+UID:cncpi-202611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261209T013000Z
+SUMMARY:🇨🇳 CPI + PPI — November (09:30 CST) · est
+DESCRIPTION:~9th of month convention\; confirm on stats.gov.cn.
+END:VEVENT
+BEGIN:VEVENT
+UID:cngdp-q2@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260715T020000Z
+SUMMARY:🇨🇳 Q2 GDP + June activity data (10:00 CST) · est
+DESCRIPTION:NBS mid-month convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:cngdp-q3@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261019T020000Z
+SUMMARY:🇨🇳 Q3 GDP + Sept activity data (10:00 CST) · est
+DESCRIPTION:NBS convention (post-Golden Week).
+END:VEVENT
+BEGIN:VEVENT
+UID:lpr-202601@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260120T010000Z
+SUMMARY:🇨🇳 PBOC Loan Prime Rate fixing (09:00 Beijing) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:lpr-202602@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260220T010000Z
+SUMMARY:🇨🇳 PBOC Loan Prime Rate fixing (09:00 Beijing) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:lpr-202603@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260320T010000Z
+SUMMARY:🇨🇳 PBOC Loan Prime Rate fixing (09:00 Beijing) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:lpr-202604@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260420T010000Z
+SUMMARY:🇨🇳 PBOC Loan Prime Rate fixing (09:00 Beijing) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:lpr-202605@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260520T010000Z
+SUMMARY:🇨🇳 PBOC Loan Prime Rate fixing (09:00 Beijing) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:lpr-202606p@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260622T010000Z
+SUMMARY:🇨🇳 PBOC Loan Prime Rate fixing (09:00 Beijing) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:rr-lpr@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270120T010000Z
+RRULE:FREQ=MONTHLY;BYMONTHDAY=20;UNTIL=20310801T000000Z
+SUMMARY:🇨🇳 PBOC Loan Prime Rate fixing — 20th (09:00 Beijing) · r
+ ecurring est
+DESCRIPTION:Recurring convention rule projected to 2031 · est. Time is fi
+ xed in UTC so it drifts 1h across DST\; dates can shift around weekends/h
+ olidays. Near-term precision: use the fixed events / live feeds\, or ask 
+ Claude to true-up (see CLAUDE.md).
+END:VEVENT
+BEGIN:VEVENT
+UID:rr-cnpmi@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270131T013000Z
+RRULE:FREQ=MONTHLY;BYMONTHDAY=-1;UNTIL=20310801T000000Z
+SUMMARY:🇨🇳 NBS official PMI — month-end (09:30 CST) · recurring e
+ st
+DESCRIPTION:Recurring convention rule projected to 2031 · est. Time is fi
+ xed in UTC so it drifts 1h across DST\; dates can shift around weekends/h
+ olidays. Near-term precision: use the fixed events / live feeds\, or ask 
+ Claude to true-up (see CLAUDE.md).
+END:VEVENT
+END:VCALENDAR

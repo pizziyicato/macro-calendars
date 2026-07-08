@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇲🇽 Mexico
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:banxico-20260806@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260806T190000Z
+SUMMARY:🇲🇽 Banxico rate decision (13:00 CDMX) · est
+DESCRIPTION:6 Aug. Thursday convention per Banxico 2026 calendar\; confirm
+  on banxico.org.mx.
+END:VEVENT
+BEGIN:VEVENT
+UID:banxico-20260924@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260924T190000Z
+SUMMARY:🇲🇽 Banxico rate decision (13:00 CDMX) · est
+DESCRIPTION:24 Sep. Thursday convention per Banxico 2026 calendar\; confir
+ m on banxico.org.mx.
+END:VEVENT
+BEGIN:VEVENT
+UID:banxico-20261105@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261105T190000Z
+SUMMARY:🇲🇽 Banxico rate decision (13:00 CDMX) · est
+DESCRIPTION:5 Nov. Thursday convention per Banxico 2026 calendar\; confirm
+  on banxico.org.mx.
+END:VEVENT
+BEGIN:VEVENT
+UID:banxico-20261217@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261217T190000Z
+SUMMARY:🇲🇽 Banxico rate decision (13:00 CDMX) · est
+DESCRIPTION:17 Dec. Thursday convention per Banxico 2026 calendar\; confir
+ m on banxico.org.mx.
+END:VEVENT
+BEGIN:VEVENT
+UID:banxico-20260205@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260205T190000Z
+SUMMARY:🇲🇽 Banxico rate decision (13:00 CDMX) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:banxico-20260326@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260326T190000Z
+SUMMARY:🇲🇽 Banxico rate decision (13:00 CDMX) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:banxico-20260514@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260514T190000Z
+SUMMARY:🇲🇽 Banxico rate decision (13:00 CDMX) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:banxico-20260625@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260625T190000Z
+SUMMARY:🇲🇽 Banxico rate decision (13:00 CDMX) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+END:VCALENDAR

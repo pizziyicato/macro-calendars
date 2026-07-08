@@ -1,0 +1,73 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇳🇴 Norway
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:norges-20260820@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260820T080000Z
+SUMMARY:🇳🇴 Norges Bank policy rate decision (10:00 Oslo) · est
+DESCRIPTION:20 Aug. Announcement 10:00\, press conference 10:30\; confirm 
+ on norges-bank.no. Note: Norges is in a hiking cycle (4.25%\, further hik
+ es signalled).
+END:VEVENT
+BEGIN:VEVENT
+UID:norges-20260924@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260924T080000Z
+SUMMARY:🇳🇴 Norges Bank policy rate decision (10:00 Oslo) · est
+DESCRIPTION:24 Sep + MPR. Announcement 10:00\, press conference 10:30\; co
+ nfirm on norges-bank.no. Note: Norges is in a hiking cycle (4.25%\, furth
+ er hikes signalled).
+END:VEVENT
+BEGIN:VEVENT
+UID:norges-20261105@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261105T090000Z
+SUMMARY:🇳🇴 Norges Bank policy rate decision (10:00 Oslo) · est
+DESCRIPTION:5 Nov. Announcement 10:00\, press conference 10:30\; confirm o
+ n norges-bank.no. Note: Norges is in a hiking cycle (4.25%\, further hike
+ s signalled).
+END:VEVENT
+BEGIN:VEVENT
+UID:norges-20261217@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261217T090000Z
+SUMMARY:🇳🇴 Norges Bank policy rate decision (10:00 Oslo) · est
+DESCRIPTION:17 Dec + MPR. Announcement 10:00\, press conference 10:30\; co
+ nfirm on norges-bank.no. Note: Norges is in a hiking cycle (4.25%\, furth
+ er hikes signalled).
+END:VEVENT
+BEGIN:VEVENT
+UID:norges-20260122@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260122T090000Z
+SUMMARY:🇳🇴 Norges Bank policy rate decision (10:00 Oslo)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:norges-20260326@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260326T090000Z
+SUMMARY:🇳🇴 Norges Bank policy rate decision (10:00 Oslo) + MPR
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:norges-20260507@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260507T080000Z
+SUMMARY:🇳🇴 Norges Bank policy rate decision (10:00 Oslo) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:norges-20260618@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260618T080000Z
+SUMMARY:🇳🇴 Norges Bank policy rate decision (10:00 Oslo) (held 4.25%
+ \, hike signalled)
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇹🇼 Taiwan
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:cbc-20260917@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260917T083000Z
+SUMMARY:🇹🇼 CBC Taiwan quarterly rate decision (~16:30 Taipei) · est
+DESCRIPTION:17 Sep. Quarterly board meeting\, third-Thursday convention\; 
+ confirm on cbc.gov.tw.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbc-20261217@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261217T083000Z
+SUMMARY:🇹🇼 CBC Taiwan quarterly rate decision (~16:30 Taipei) · est
+DESCRIPTION:17 Dec. Quarterly board meeting\, third-Thursday convention\; 
+ confirm on cbc.gov.tw.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇭🇺 Hungary
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:mnb-20260721@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260721T110000Z
+SUMMARY:🇭🇺 MNB base rate decision (13:00 Budapest) · est
+DESCRIPTION:21 Jul. Monthly Tuesday convention\; confirm on mnb.hu.
+END:VEVENT
+BEGIN:VEVENT
+UID:mnb-20260825@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260825T110000Z
+SUMMARY:🇭🇺 MNB base rate decision (13:00 Budapest) · est
+DESCRIPTION:25 Aug. Monthly Tuesday convention\; confirm on mnb.hu.
+END:VEVENT
+BEGIN:VEVENT
+UID:mnb-20260922@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260922T110000Z
+SUMMARY:🇭🇺 MNB base rate decision (13:00 Budapest) · est
+DESCRIPTION:22 Sep. Monthly Tuesday convention\; confirm on mnb.hu.
+END:VEVENT
+BEGIN:VEVENT
+UID:mnb-20261020@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261020T110000Z
+SUMMARY:🇭🇺 MNB base rate decision (13:00 Budapest) · est
+DESCRIPTION:20 Oct. Monthly Tuesday convention\; confirm on mnb.hu.
+END:VEVENT
+BEGIN:VEVENT
+UID:mnb-20261117@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261117T120000Z
+SUMMARY:🇭🇺 MNB base rate decision (13:00 Budapest) · est
+DESCRIPTION:17 Nov. Monthly Tuesday convention\; confirm on mnb.hu.
+END:VEVENT
+BEGIN:VEVENT
+UID:mnb-20261215@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261215T120000Z
+SUMMARY:🇭🇺 MNB base rate decision (13:00 Budapest) · est
+DESCRIPTION:15 Dec. Monthly Tuesday convention\; confirm on mnb.hu.
+END:VEVENT
+END:VCALENDAR

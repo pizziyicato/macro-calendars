@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇷🇺 Russia
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:cbr-20260724@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260724T103000Z
+SUMMARY:🇷🇺 CBR key rate decision (13:30 MSK) · est
+DESCRIPTION:Per CBR 2026 Friday schedule. Pattern-derived date\; confirm o
+ n the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbr-20260911@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260911T103000Z
+SUMMARY:🇷🇺 CBR key rate decision (13:30 MSK) · est
+DESCRIPTION:Per CBR 2026 Friday schedule. Pattern-derived date\; confirm o
+ n the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbr-20261023@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261023T103000Z
+SUMMARY:🇷🇺 CBR key rate decision (13:30 MSK) · est
+DESCRIPTION:Per CBR 2026 Friday schedule. Pattern-derived date\; confirm o
+ n the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbr-20261218@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261218T103000Z
+SUMMARY:🇷🇺 CBR key rate decision (13:30 MSK) · est
+DESCRIPTION:Per CBR 2026 Friday schedule. Pattern-derived date\; confirm o
+ n the central bank's site before trading it.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,258 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇪🇺 Eurozone
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:ecb-20260723@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260723T121500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision (14:15 CET)
+DESCRIPTION:Day 2 of two-day meeting. Source: ecb.europa.eu. Decision 14:1
+ 5 CET/CEST\, press conference 14:45.
+LOCATION:Frankfurt
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20260910@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260910T121500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision + staff projections (
+ 14:15 CET)
+DESCRIPTION:Day 2 of two-day meeting. Source: ecb.europa.eu. Decision 14:1
+ 5 CET/CEST\, press conference 14:45.
+LOCATION:Berlin (Bundesbank)
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20261029@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261029T131500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision (14:15 CET)
+DESCRIPTION:Day 2 of two-day meeting. Source: ecb.europa.eu. Decision 14:1
+ 5 CET/CEST\, press conference 14:45.
+LOCATION:Frankfurt
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20261217@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261217T131500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision + staff projections (
+ 14:15 CET)
+DESCRIPTION:Day 2 of two-day meeting. Source: ecb.europa.eu. Decision 14:1
+ 5 CET/CEST\, press conference 14:45.
+LOCATION:Frankfurt
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20270204@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270204T131500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision (14:15 CET)
+DESCRIPTION:Day 2 of two-day meeting. Source: ecb.europa.eu. Decision 14:1
+ 5 CET/CEST\, press conference 14:45.
+LOCATION:Frankfurt
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20270318@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270318T131500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision + staff projections (
+ 14:15 CET)
+DESCRIPTION:Day 2 of two-day meeting. Source: ecb.europa.eu. Decision 14:1
+ 5 CET/CEST\, press conference 14:45.
+LOCATION:Frankfurt
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20270429@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270429T121500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision (14:15 CET)
+DESCRIPTION:Day 2 of two-day meeting. Source: ecb.europa.eu. Decision 14:1
+ 5 CET/CEST\, press conference 14:45.
+LOCATION:Frankfurt
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20270610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270610T121500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision + staff projections (
+ 14:15 CET)
+DESCRIPTION:Day 2 of two-day meeting. Source: ecb.europa.eu. Decision 14:1
+ 5 CET/CEST\, press conference 14:45.
+LOCATION:Frankfurt
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20270722@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270722T121500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision (14:15 CET)
+DESCRIPTION:Day 2 of two-day meeting. Source: ecb.europa.eu. Decision 14:1
+ 5 CET/CEST\, press conference 14:45.
+LOCATION:Frankfurt
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20270909@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270909T121500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision + staff projections (
+ 14:15 CET)
+DESCRIPTION:Day 2 of two-day meeting. Source: ecb.europa.eu. Decision 14:1
+ 5 CET/CEST\, press conference 14:45.
+LOCATION:Frankfurt
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20271028@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20271028T121500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision (14:15 CET)
+DESCRIPTION:Day 2 of two-day meeting. Source: ecb.europa.eu. Decision 14:1
+ 5 CET/CEST\, press conference 14:45.
+LOCATION:Frankfurt
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20271216@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20271216T131500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision + staff projections (
+ 14:15 CET)
+DESCRIPTION:Day 2 of two-day meeting. Source: ecb.europa.eu. Decision 14:1
+ 5 CET/CEST\, press conference 14:45.
+LOCATION:Frankfurt
+END:VEVENT
+BEGIN:VEVENT
+UID:ezhicp-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260731T090000Z
+SUMMARY:🇪🇺 Euro area flash HICP — July (11:00 CET) · est
+DESCRIPTION:Eurostat flash issued at end of reference month / first days o
+ f next\; confirm via Euro indicators release calendar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ezhicp-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260901T090000Z
+SUMMARY:🇪🇺 Euro area flash HICP — August (11:00 CET) · est
+DESCRIPTION:Eurostat flash issued at end of reference month / first days o
+ f next\; confirm via Euro indicators release calendar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ezhicp-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261001T090000Z
+SUMMARY:🇪🇺 Euro area flash HICP — September (11:00 CET) · est
+DESCRIPTION:Eurostat flash issued at end of reference month / first days o
+ f next\; confirm via Euro indicators release calendar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ezhicp-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261030T100000Z
+SUMMARY:🇪🇺 Euro area flash HICP — October (11:00 CET) · est
+DESCRIPTION:Eurostat flash issued at end of reference month / first days o
+ f next\; confirm via Euro indicators release calendar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ezhicp-202611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261201T100000Z
+SUMMARY:🇪🇺 Euro area flash HICP — November (11:00 CET) · est
+DESCRIPTION:Eurostat flash issued at end of reference month / first days o
+ f next\; confirm via Euro indicators release calendar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ezhicp-final-jun@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260717T090000Z
+SUMMARY:🇪🇺 Euro area final HICP — June (11:00 CET)
+DESCRIPTION:Verified: 17 Jul 2026 per Eurostat.
+END:VEVENT
+BEGIN:VEVENT
+UID:ezgdp-q2@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260730T090000Z
+SUMMARY:🇪🇺 Euro area GDP Q2 preliminary flash (11:00 CET) · est
+DESCRIPTION:~30 days after quarter-end\; confirm via Eurostat calendar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ezgdp-q3@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261030T100000Z
+SUMMARY:🇪🇺 Euro area GDP Q3 preliminary flash (11:00 CET) · est
+END:VEVENT
+BEGIN:VEVENT
+UID:eucouncil-oct@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261024
+SUMMARY:🇪🇺 European Council summit · est
+DESCRIPTION:Expected 22-23 Oct\, Brussels\; confirm on consilium.europa.eu
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:eucouncil-dec@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261219
+SUMMARY:🇪🇺 European Council summit · est
+DESCRIPTION:Expected 17-18 Dec\, Brussels\; confirm on consilium.europa.eu
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20260205@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260205T131500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision (14:15 CET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20260319@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260319T131500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision + projections (14:15 
+ CET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20260430@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260430T121500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision (14:15 CET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-20260611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260611T121500Z
+SUMMARY:🇪🇺 ECB Governing Council rate decision + projections (25bp h
+ ike) (14:15 CET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:ezhicp-202603@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260331T090000Z
+SUMMARY:🇪🇺 Euro area flash HICP — March (11:00 CET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:ezhicp-202604@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260430T090000Z
+SUMMARY:🇪🇺 Euro area flash HICP — April (11:00 CET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:ezhicp-202605@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260602T090000Z
+SUMMARY:🇪🇺 Euro area flash HICP — May (11:00 CET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:ezhicp-202606@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260701T090000Z
+SUMMARY:🇪🇺 Euro area flash HICP — June (11:00 CET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+END:VCALENDAR

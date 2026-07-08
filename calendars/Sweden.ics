@@ -1,0 +1,76 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇸🇪 Sweden
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:riks-20260820@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260820T073000Z
+SUMMARY:🇸🇪 Riksbank policy rate decision (09:30 Stockholm)
+DESCRIPTION:Decision + Monetary Policy Update/Report 09:30\, press confere
+ nce 11:00. Source: riksbank.se calendar.
+END:VEVENT
+BEGIN:VEVENT
+UID:riks-20260924@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260924T073000Z
+SUMMARY:🇸🇪 Riksbank policy rate decision (09:30 Stockholm)
+DESCRIPTION:Decision + Monetary Policy Update/Report 09:30\, press confere
+ nce 11:00. Source: riksbank.se calendar.
+END:VEVENT
+BEGIN:VEVENT
+UID:riks-20261104@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261104T083000Z
+SUMMARY:🇸🇪 Riksbank policy rate decision (09:30 Stockholm)
+DESCRIPTION:Decision + Monetary Policy Update/Report 09:30\, press confere
+ nce 11:00. Source: riksbank.se calendar.
+END:VEVENT
+BEGIN:VEVENT
+UID:riks-20261216@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261216T083000Z
+SUMMARY:🇸🇪 Riksbank policy rate decision (09:30 Stockholm)
+DESCRIPTION:Decision + Monetary Policy Update/Report 09:30\, press confere
+ nce 11:00. Source: riksbank.se calendar.
+END:VEVENT
+BEGIN:VEVENT
+UID:sweden-2026@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:🇸🇪 Sweden — general election (Riksdag)
+DESCRIPTION:Fixed by law: second Sunday of September.
+END:VEVENT
+BEGIN:VEVENT
+UID:riks-20260129@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260129T083000Z
+SUMMARY:🇸🇪 Riksbank policy rate decision (09:30 Stockholm)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:riks-20260319@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260319T083000Z
+SUMMARY:🇸🇪 Riksbank policy rate decision (09:30 Stockholm)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:riks-20260507@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260507T073000Z
+SUMMARY:🇸🇪 Riksbank policy rate decision (09:30 Stockholm)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:riks-20260617@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260617T073000Z
+SUMMARY:🇸🇪 Riksbank policy rate decision (09:30 Stockholm)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+END:VCALENDAR

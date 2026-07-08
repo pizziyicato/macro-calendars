@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇵🇭 Philippines
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:bsp-20260820@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260820T070000Z
+SUMMARY:🇵🇭 BSP Monetary Board rate decision (15:00 Manila) · est
+DESCRIPTION:20 Aug. Thursday convention\; confirm on bsp.gov.ph.
+END:VEVENT
+BEGIN:VEVENT
+UID:bsp-20261008@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261008T070000Z
+SUMMARY:🇵🇭 BSP Monetary Board rate decision (15:00 Manila) · est
+DESCRIPTION:8 Oct. Thursday convention\; confirm on bsp.gov.ph.
+END:VEVENT
+BEGIN:VEVENT
+UID:bsp-20261210@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261210T070000Z
+SUMMARY:🇵🇭 BSP Monetary Board rate decision (15:00 Manila) · est
+DESCRIPTION:10 Dec. Thursday convention\; confirm on bsp.gov.ph.
+END:VEVENT
+END:VCALENDAR

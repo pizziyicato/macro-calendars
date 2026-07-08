@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇨🇿 Czechia
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:cnb-20260806@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260806T123000Z
+SUMMARY:🇨🇿 CNB rate decision (14:30 Prague) · est
+DESCRIPTION:6 Aug. Thursday convention (8 meetings/yr)\; confirm on cnb.cz
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:cnb-20260924@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260924T123000Z
+SUMMARY:🇨🇿 CNB rate decision (14:30 Prague) · est
+DESCRIPTION:24 Sep. Thursday convention (8 meetings/yr)\; confirm on cnb.c
+ z.
+END:VEVENT
+BEGIN:VEVENT
+UID:cnb-20261105@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261105T133000Z
+SUMMARY:🇨🇿 CNB rate decision (14:30 Prague) · est
+DESCRIPTION:5 Nov. Thursday convention (8 meetings/yr)\; confirm on cnb.cz
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:cnb-20261217@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261217T133000Z
+SUMMARY:🇨🇿 CNB rate decision (14:30 Prague) · est
+DESCRIPTION:17 Dec. Thursday convention (8 meetings/yr)\; confirm on cnb.c
+ z.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇨🇱 Chile
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:bcch-20260728@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260728T220000Z
+SUMMARY:🇨🇱 BCCh RPM rate decision (18:00 Santiago) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:bcch-20260908@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260908T210000Z
+SUMMARY:🇨🇱 BCCh RPM rate decision (18:00 Santiago) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:bcch-20261027@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261027T210000Z
+SUMMARY:🇨🇱 BCCh RPM rate decision (18:00 Santiago) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:bcch-20261215@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261215T210000Z
+SUMMARY:🇨🇱 BCCh RPM rate decision (18:00 Santiago) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+END:VCALENDAR

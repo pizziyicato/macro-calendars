@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇬🇧 UK
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:boe-20260730@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260730T110000Z
+SUMMARY:🇬🇧 BOE MPC Bank Rate decision + Monetary Policy Report (12:0
+ 0 London)
+DESCRIPTION:Source: bankofengland.co.uk. Decision + minutes at noon\; MPR 
+ meetings add Governor press conference ~12:30.
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-20260917@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260917T110000Z
+SUMMARY:🇬🇧 BOE MPC Bank Rate decision (12:00 London)
+DESCRIPTION:Source: bankofengland.co.uk. Decision + minutes at noon\; MPR 
+ meetings add Governor press conference ~12:30.
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-20261105@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261105T120000Z
+SUMMARY:🇬🇧 BOE MPC Bank Rate decision + Monetary Policy Report (12:0
+ 0 London)
+DESCRIPTION:Source: bankofengland.co.uk. Decision + minutes at noon\; MPR 
+ meetings add Governor press conference ~12:30.
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-20261217@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261217T120000Z
+SUMMARY:🇬🇧 BOE MPC Bank Rate decision (12:00 London)
+DESCRIPTION:Source: bankofengland.co.uk. Decision + minutes at noon\; MPR 
+ meetings add Governor press conference ~12:30.
+END:VEVENT
+BEGIN:VEVENT
+UID:ukcpi-202606@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260715T060000Z
+SUMMARY:🇬🇧 CPI — June (07:00 London) · est
+DESCRIPTION:Mid-month Wednesday convention\; confirm via ONS release calen
+ dar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ukcpi-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260819T060000Z
+SUMMARY:🇬🇧 CPI — July (07:00 London) · est
+DESCRIPTION:Mid-month Wednesday convention\; confirm via ONS release calen
+ dar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ukcpi-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260916T060000Z
+SUMMARY:🇬🇧 CPI — August (07:00 London) · est
+DESCRIPTION:Mid-month Wednesday convention\; confirm via ONS release calen
+ dar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ukcpi-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261021T070000Z
+SUMMARY:🇬🇧 CPI — September (07:00 London) · est
+DESCRIPTION:Mid-month Wednesday convention\; confirm via ONS release calen
+ dar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ukcpi-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261118T070000Z
+SUMMARY:🇬🇧 CPI — October (07:00 London) · est
+DESCRIPTION:Mid-month Wednesday convention\; confirm via ONS release calen
+ dar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ukcpi-202611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261216T070000Z
+SUMMARY:🇬🇧 CPI — November (07:00 London) · est
+DESCRIPTION:Mid-month Wednesday convention\; confirm via ONS release calen
+ dar.
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-20260205@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260205T120000Z
+SUMMARY:🇬🇧 BOE MPC Bank Rate decision + MPR (12:00 London)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-20260319@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260319T120000Z
+SUMMARY:🇬🇧 BOE MPC Bank Rate decision (12:00 London)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-20260430@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260430T110000Z
+SUMMARY:🇬🇧 BOE MPC Bank Rate decision + MPR (12:00 London)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:boe-20260618@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260618T110000Z
+SUMMARY:🇬🇧 BOE MPC Bank Rate decision (12:00 London)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇮🇱 Israel
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:boi-20260824@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260824T130000Z
+SUMMARY:🇮🇱 Bank of Israel rate decision (16:00 local) · est
+DESCRIPTION:24 Aug. Monday convention\; confirm on boi.org.il.
+END:VEVENT
+BEGIN:VEVENT
+UID:boi-20261005@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261005T130000Z
+SUMMARY:🇮🇱 Bank of Israel rate decision (16:00 local) · est
+DESCRIPTION:5 Oct. Monday convention\; confirm on boi.org.il.
+END:VEVENT
+BEGIN:VEVENT
+UID:boi-20261123@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261123T140000Z
+SUMMARY:🇮🇱 Bank of Israel rate decision (16:00 local) · est
+DESCRIPTION:23 Nov. Monday convention\; confirm on boi.org.il.
+END:VEVENT
+BEGIN:VEVENT
+UID:israel-2026@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:🇮🇱 Israel — legal deadline for Knesset election (date TBC)
+DESCRIPTION:Election due by 27 Oct 2026\; a snap election could come earli
+ er.
+END:VEVENT
+END:VCALENDAR

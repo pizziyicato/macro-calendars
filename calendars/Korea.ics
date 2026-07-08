@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇰🇷 Korea
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:bok-20260716@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260716T010000Z
+SUMMARY:🇰🇷 Bank of Korea base rate decision (~10:00 KST) · est
+DESCRIPTION:16 Jul. Thursday convention per BOK 2026 pattern\; confirm on b
+ ok.or.kr.
+END:VEVENT
+BEGIN:VEVENT
+UID:bok-20260827@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260827T010000Z
+SUMMARY:🇰🇷 Bank of Korea base rate decision (~10:00 KST) · est
+DESCRIPTION:27 Aug. Thursday convention per BOK 2026 pattern\; confirm on 
+ bok.or.kr.
+END:VEVENT
+BEGIN:VEVENT
+UID:bok-20261022@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261022T010000Z
+SUMMARY:🇰🇷 Bank of Korea base rate decision (~10:00 KST) · est
+DESCRIPTION:22 Oct. Thursday convention per BOK 2026 pattern\; confirm on 
+ bok.or.kr.
+END:VEVENT
+BEGIN:VEVENT
+UID:bok-20261126@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261126T010000Z
+SUMMARY:🇰🇷 Bank of Korea base rate decision (~10:00 KST) · est
+DESCRIPTION:26 Nov. Thursday convention per BOK 2026 pattern\; confirm on 
+ bok.or.kr.
+END:VEVENT
+BEGIN:VEVENT
+UID:krexp-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260801T000000Z
+SUMMARY:🇰🇷 Full-month exports — July (09:00 KST) · est
+DESCRIPTION:Korea customs\, 1st of month\; global trade/semis bellwether.
+END:VEVENT
+BEGIN:VEVENT
+UID:krexp-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260901T000000Z
+SUMMARY:🇰🇷 Full-month exports — August (09:00 KST) · est
+DESCRIPTION:Korea customs\, 1st of month\; global trade/semis bellwether.
+END:VEVENT
+BEGIN:VEVENT
+UID:krexp-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261001T000000Z
+SUMMARY:🇰🇷 Full-month exports — September (09:00 KST) · est
+DESCRIPTION:Korea customs\, 1st of month\; global trade/semis bellwether.
+END:VEVENT
+BEGIN:VEVENT
+UID:krexp-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261101T000000Z
+SUMMARY:🇰🇷 Full-month exports — October (09:00 KST) · est
+DESCRIPTION:Korea customs\, 1st of month\; global trade/semis bellwether.
+END:VEVENT
+BEGIN:VEVENT
+UID:krexp-202611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261201T000000Z
+SUMMARY:🇰🇷 Full-month exports — November (09:00 KST) · est
+DESCRIPTION:Korea customs\, 1st of month\; global trade/semis bellwether.
+END:VEVENT
+BEGIN:VEVENT
+UID:bok-20260115@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260115T010000Z
+SUMMARY:🇰🇷 Bank of Korea base rate decision (~10:00 KST) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:bok-20260226@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260226T010000Z
+SUMMARY:🇰🇷 Bank of Korea base rate decision (~10:00 KST)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:bok-20260410@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260410T010000Z
+SUMMARY:🇰🇷 Bank of Korea base rate decision (~10:00 KST)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:bok-20260528@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260528T010000Z
+SUMMARY:🇰🇷 Bank of Korea base rate decision (~10:00 KST) (held 2.50%
+ )
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:rr-krexp@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270101T000000Z
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1;UNTIL=20310801T000000Z
+SUMMARY:🇰🇷 Full-month exports — 1st (09:00 KST) · recurring est
+DESCRIPTION:Recurring convention rule projected to 2031 · est. Time is fi
+ xed in UTC so it drifts 1h across DST\; dates can shift around weekends/h
+ olidays. Near-term precision: use the fixed events / live feeds\, or ask 
+ Claude to true-up (see CLAUDE.md).
+END:VEVENT
+END:VCALENDAR

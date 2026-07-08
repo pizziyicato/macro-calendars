@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇨🇴 Colombia
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:banrep-20260731@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260731T190000Z
+SUMMARY:🇨🇴 BanRep rate decision (afternoon Bogota) · est
+DESCRIPTION:Board rate meeting\; announcement time varies. Pattern-derived
+  date\; confirm on the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:banrep-20260930@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260930T190000Z
+SUMMARY:🇨🇴 BanRep rate decision (afternoon Bogota) · est
+DESCRIPTION:Board rate meeting\; announcement time varies. Pattern-derived
+  date\; confirm on the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:banrep-20261030@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261030T190000Z
+SUMMARY:🇨🇴 BanRep rate decision (afternoon Bogota) · est
+DESCRIPTION:Board rate meeting\; announcement time varies. Pattern-derived
+  date\; confirm on the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:banrep-20261218@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261218T190000Z
+SUMMARY:🇨🇴 BanRep rate decision (afternoon Bogota) · est
+DESCRIPTION:Board rate meeting\; announcement time varies. Pattern-derived
+  date\; confirm on the central bank's site before trading it.
+END:VEVENT
+END:VCALENDAR

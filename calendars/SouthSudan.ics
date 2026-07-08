@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇸🇸 South Sudan
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:ssudan-2026@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:🇸🇸 South Sudan — first general election (December window\,
+  date TBC)
+DESCRIPTION:Announced Jun 2026 for December\; exact date TBC\, high slippa
+ ge risk.
+END:VEVENT
+END:VCALENDAR

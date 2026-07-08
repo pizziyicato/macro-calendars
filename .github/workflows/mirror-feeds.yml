@@ -1,0 +1,39 @@
+name: mirror-upstream-feeds
+on:
+  schedule:
+    - cron: "17 */8 * * *"   # every 8h — GitHub polls upstreams for you
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "calendars/Feed-*.ics"
+permissions:
+  contents: write
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch upstream feeds into calendars/
+        run: |
+          UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+          fetch () {
+            tmp=$(mktemp)
+            if curl -fsSL --max-time 60 -A "$UA" "$2" -o "$tmp" \
+               && head -c 200 "$tmp" | grep -q "BEGIN:VCALENDAR"; then
+              mv "$tmp" "calendars/$1.ics"; echo "OK   $1"
+            else
+              echo "WARN $1 fetch failed — keeping previous copy"
+            fi
+          }
+          fetch "Feed-US-BLS-Official"  "https://www.bls.gov/schedule/news_release/bls.ics"
+          fetch "Feed-US-BEA-Official"  "https://www.bea.gov/news/schedule/ics/online-calendar-subscription.ics"
+          fetch "Feed-US-FOMC"          "https://smartcalendars.ai/cal/0ea21f9263efb26e227747919715fffa2e1ba60c0a31f02e0b6ef2ad259b9e51.ics"
+          fetch "Feed-EU-ECB"           "https://smartcalendars.ai/cal/21ca0bed97edcb116fc5f36ec634d51661e4446d27c111a02df4a7c8a47f4dcc.ics"
+          fetch "Feed-US-Macro-Combined" "https://smartcalendars.ai/cal/8d6bda5ff8dc5f1a31ef90c28740dfccac475a43517c812de5f62283fcd1152c.ics"
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add calendars/Feed-*.ics 2>/dev/null || true
+          git diff --cached --quiet || { git commit -m "mirror upstream feeds [skip ci]"; git push; }

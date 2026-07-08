@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇳🇬 Nigeria
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:cbn-20260721@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260721T130000Z
+SUMMARY:🇳🇬 CBN MPC rate decision (~14:00 Abuja) · est
+DESCRIPTION:Two-day Mon-Tue MPC\, decision Tuesday. Pattern-derived date\;
+  confirm on the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbn-20260922@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260922T130000Z
+SUMMARY:🇳🇬 CBN MPC rate decision (~14:00 Abuja) · est
+DESCRIPTION:Two-day Mon-Tue MPC\, decision Tuesday. Pattern-derived date\;
+  confirm on the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbn-20261124@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261124T130000Z
+SUMMARY:🇳🇬 CBN MPC rate decision (~14:00 Abuja) · est
+DESCRIPTION:Two-day Mon-Tue MPC\, decision Tuesday. Pattern-derived date\;
+  confirm on the central bank's site before trading it.
+END:VEVENT
+END:VCALENDAR

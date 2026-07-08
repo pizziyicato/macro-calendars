@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇷🇸 Serbia
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nbsrb-20260709@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260709T100000Z
+SUMMARY:🇷🇸 NBS key rate decision (~12:00 Belgrade) · est
+DESCRIPTION:Second-Thursday monthly convention. Pattern-derived date\; con
+ firm on the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:nbsrb-20260813@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260813T100000Z
+SUMMARY:🇷🇸 NBS key rate decision (~12:00 Belgrade) · est
+DESCRIPTION:Second-Thursday monthly convention. Pattern-derived date\; con
+ firm on the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:nbsrb-20260910@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260910T100000Z
+SUMMARY:🇷🇸 NBS key rate decision (~12:00 Belgrade) · est
+DESCRIPTION:Second-Thursday monthly convention. Pattern-derived date\; con
+ firm on the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:nbsrb-20261008@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261008T100000Z
+SUMMARY:🇷🇸 NBS key rate decision (~12:00 Belgrade) · est
+DESCRIPTION:Second-Thursday monthly convention. Pattern-derived date\; con
+ firm on the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:nbsrb-20261112@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261112T110000Z
+SUMMARY:🇷🇸 NBS key rate decision (~12:00 Belgrade) · est
+DESCRIPTION:Second-Thursday monthly convention. Pattern-derived date\; con
+ firm on the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:nbsrb-20261210@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261210T110000Z
+SUMMARY:🇷🇸 NBS key rate decision (~12:00 Belgrade) · est
+DESCRIPTION:Second-Thursday monthly convention. Pattern-derived date\; con
+ firm on the central bank's site before trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:rr-nbsrb@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270114T110000Z
+RRULE:FREQ=MONTHLY;BYDAY=2TH;UNTIL=20310801T000000Z
+SUMMARY:🇷🇸 NBS key rate decision — 2nd Thursday (~12:00 Belgrade) 
+ · recurring est
+DESCRIPTION:Recurring convention rule projected to 2031 · est. Time is fi
+ xed in UTC so it drifts 1h across DST\; dates can shift around weekends/h
+ olidays. Near-term precision: use the fixed events / live feeds\, or ask 
+ Claude to true-up (see CLAUDE.md).
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇺🇦 Ukraine
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nbu-20260723@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260723T110000Z
+SUMMARY:🇺🇦 NBU key rate decision (14:00 Kyiv) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:nbu-20260910@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260910T110000Z
+SUMMARY:🇺🇦 NBU key rate decision (14:00 Kyiv) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:nbu-20261022@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261022T110000Z
+SUMMARY:🇺🇦 NBU key rate decision (14:00 Kyiv) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:nbu-20261210@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261210T120000Z
+SUMMARY:🇺🇦 NBU key rate decision (14:00 Kyiv) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+END:VCALENDAR

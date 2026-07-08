@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇦🇷 Argentina
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:argentina-2026@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:🇦🇷 Argentina — legislative midterm elections · est
+DESCRIPTION:Fourth-Sunday-of-October convention (half of Chamber\, third o
+ f Senate). BCRA sets rates ad hoc — no fixed schedule.
+END:VEVENT
+END:VCALENDAR

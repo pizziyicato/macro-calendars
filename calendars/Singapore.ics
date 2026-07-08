@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇸🇬 Singapore
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:mas-2026jul@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260801
+SUMMARY:🇸🇬 MAS Monetary Policy Statement — July window (date TBC)
+DESCRIPTION:Quarterly MPS (Jan/Apr/Jul/Oct)\, typically 08:00 SGT. Exact d
+ ate on the MAS Advance Release Calendar\; 2025 analogue was 30 Jul. 21-da
+ y pre-release blackout applies.
+END:VEVENT
+BEGIN:VEVENT
+UID:mas-2026oct@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+SUMMARY:🇸🇬 MAS Monetary Policy Statement — October window (date TB
+ C)
+DESCRIPTION:Exact date on the MAS Advance Release Calendar\; 2025 analogue
+  was 14 Oct.
+END:VEVENT
+BEGIN:VEVENT
+UID:sgnodx-202606@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260717T003000Z
+SUMMARY:🇸🇬 NODX — June (08:30 SGT) · est
+DESCRIPTION:EnterpriseSG ~17th convention\; confirm via MAS ARC.
+END:VEVENT
+BEGIN:VEVENT
+UID:sgnodx-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260817T003000Z
+SUMMARY:🇸🇬 NODX — July (08:30 SGT) · est
+DESCRIPTION:EnterpriseSG ~17th convention\; confirm via MAS ARC.
+END:VEVENT
+BEGIN:VEVENT
+UID:sgnodx-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260917T003000Z
+SUMMARY:🇸🇬 NODX — August (08:30 SGT) · est
+DESCRIPTION:EnterpriseSG ~17th convention\; confirm via MAS ARC.
+END:VEVENT
+BEGIN:VEVENT
+UID:sgnodx-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261016T003000Z
+SUMMARY:🇸🇬 NODX — September (08:30 SGT) · est
+DESCRIPTION:EnterpriseSG ~17th convention\; confirm via MAS ARC.
+END:VEVENT
+BEGIN:VEVENT
+UID:sgnodx-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261117T003000Z
+SUMMARY:🇸🇬 NODX — October (08:30 SGT) · est
+DESCRIPTION:EnterpriseSG ~17th convention\; confirm via MAS ARC.
+END:VEVENT
+BEGIN:VEVENT
+UID:sgnodx-202611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261217T003000Z
+SUMMARY:🇸🇬 NODX — November (08:30 SGT) · est
+DESCRIPTION:EnterpriseSG ~17th convention\; confirm via MAS ARC.
+END:VEVENT
+BEGIN:VEVENT
+UID:sgcpi-202606@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260723T050000Z
+SUMMARY:🇸🇬 CPI — June (13:00 SGT) · est
+DESCRIPTION:MAS/MTI ~23rd convention\; confirm via MAS ARC.
+END:VEVENT
+BEGIN:VEVENT
+UID:sgcpi-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260824T050000Z
+SUMMARY:🇸🇬 CPI — July (13:00 SGT) · est
+DESCRIPTION:MAS/MTI ~23rd convention\; confirm via MAS ARC.
+END:VEVENT
+BEGIN:VEVENT
+UID:sgcpi-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260923T050000Z
+SUMMARY:🇸🇬 CPI — August (13:00 SGT) · est
+DESCRIPTION:MAS/MTI ~23rd convention\; confirm via MAS ARC.
+END:VEVENT
+BEGIN:VEVENT
+UID:sgcpi-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261023T050000Z
+SUMMARY:🇸🇬 CPI — September (13:00 SGT) · est
+DESCRIPTION:MAS/MTI ~23rd convention\; confirm via MAS ARC.
+END:VEVENT
+BEGIN:VEVENT
+UID:sgcpi-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261123T050000Z
+SUMMARY:🇸🇬 CPI — October (13:00 SGT) · est
+DESCRIPTION:MAS/MTI ~23rd convention\; confirm via MAS ARC.
+END:VEVENT
+BEGIN:VEVENT
+UID:sgcpi-202611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261223T050000Z
+SUMMARY:🇸🇬 CPI — November (13:00 SGT) · est
+DESCRIPTION:MAS/MTI ~23rd convention\; confirm via MAS ARC.
+END:VEVENT
+BEGIN:VEVENT
+UID:sggdp-q2@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260714T000000Z
+SUMMARY:🇸🇬 Q2 GDP advance estimate (MTI\, 08:00 SGT) · est
+DESCRIPTION:Mid-July convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:sggdp-q3@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261014T000000Z
+SUMMARY:🇸🇬 Q3 GDP advance estimate (MTI\, 08:00 SGT) · est
+DESCRIPTION:Mid-October convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:mas-2026jan@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260129T000000Z
+SUMMARY:🇸🇬 MAS Monetary Policy Statement — January (08:00 SGT)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:mas-2026apr@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260414T000000Z
+SUMMARY:🇸🇬 MAS Monetary Policy Statement — April (08:00 SGT)
+DESCRIPTION:Historical: slope of S$NEER band increased slightly (14 Apr 20
+ 26).
+END:VEVENT
+BEGIN:VEVENT
+UID:rr-sgcpi@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270123T050000Z
+RRULE:FREQ=MONTHLY;BYMONTHDAY=23;UNTIL=20310801T000000Z
+SUMMARY:🇸🇬 CPI — ~23rd (13:00 SGT) · recurring est
+DESCRIPTION:Recurring convention rule projected to 2031 · est. Time is fi
+ xed in UTC so it drifts 1h across DST\; dates can shift around weekends/h
+ olidays. Near-term precision: use the fixed events / live feeds\, or ask 
+ Claude to true-up (see CLAUDE.md).
+END:VEVENT
+BEGIN:VEVENT
+UID:rr-sgnodx@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270117T003000Z
+RRULE:FREQ=MONTHLY;BYMONTHDAY=17;UNTIL=20310801T000000Z
+SUMMARY:🇸🇬 NODX — ~17th (08:30 SGT) · recurring est
+DESCRIPTION:Recurring convention rule projected to 2031 · est. Time is fi
+ xed in UTC so it drifts 1h across DST\; dates can shift around weekends/h
+ olidays. Near-term precision: use the fixed events / live feeds\, or ask 
+ Claude to true-up (see CLAUDE.md).
+END:VEVENT
+END:VCALENDAR

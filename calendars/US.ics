@@ -1,0 +1,640 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇺🇸 US
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:fed-20260729@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260729T180000Z
+SUMMARY:🇺🇸 FOMC rate decision (14:00 ET)
+DESCRIPTION:Two-day meeting Jul 28-29 2026. Source: federalreserve.gov. De
+ cision 14:00 ET\, press conference 14:30 ET.
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20260916@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260916T180000Z
+SUMMARY:🇺🇸 FOMC rate decision + SEP/dot plot (14:00 ET)
+DESCRIPTION:Two-day meeting Sep 15-16 2026. Source: federalreserve.gov. De
+ cision 14:00 ET\, press conference 14:30 ET.
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20261028@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261028T180000Z
+SUMMARY:🇺🇸 FOMC rate decision (14:00 ET)
+DESCRIPTION:Two-day meeting Oct 27-28 2026. Source: federalreserve.gov. De
+ cision 14:00 ET\, press conference 14:30 ET.
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20261209@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261209T190000Z
+SUMMARY:🇺🇸 FOMC rate decision + SEP/dot plot (14:00 ET)
+DESCRIPTION:Two-day meeting Dec 8-9 2026. Source: federalreserve.gov. Deci
+ sion 14:00 ET\, press conference 14:30 ET.
+END:VEVENT
+BEGIN:VEVENT
+UID:fedmin-20260819@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260819T180000Z
+SUMMARY:🇺🇸 FOMC minutes — July meeting (14:00 ET)
+DESCRIPTION:Released three weeks after the decision.
+END:VEVENT
+BEGIN:VEVENT
+UID:fedmin-20261007@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261007T180000Z
+SUMMARY:🇺🇸 FOMC minutes — September meeting (14:00 ET)
+DESCRIPTION:Released three weeks after the decision.
+END:VEVENT
+BEGIN:VEVENT
+UID:fedmin-20261118@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261118T190000Z
+SUMMARY:🇺🇸 FOMC minutes — October meeting (14:00 ET)
+DESCRIPTION:Released three weeks after the decision.
+END:VEVENT
+BEGIN:VEVENT
+UID:fedmin-20261230@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261230T190000Z
+SUMMARY:🇺🇸 FOMC minutes — December meeting (14:00 ET)
+DESCRIPTION:Released three weeks after the decision.
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20270127@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270127T190000Z
+SUMMARY:🇺🇸 FOMC rate decision (14:00 ET) · 2027 tentative
+DESCRIPTION:Two-day meeting Jan 26-27 2027\; tentative until confirmed at 
+ the prior meeting. Source: federalreserve.gov. Decision 14:00 ET\, press 
+ conference 14:30 ET.
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20270317@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270317T180000Z
+SUMMARY:🇺🇸 FOMC rate decision + SEP (14:00 ET) · 2027 tentative
+DESCRIPTION:Two-day meeting Mar 16-17 2027\; tentative until confirmed at 
+ the prior meeting. Source: federalreserve.gov. Decision 14:00 ET\, press 
+ conference 14:30 ET.
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20270428@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270428T180000Z
+SUMMARY:🇺🇸 FOMC rate decision (14:00 ET) · 2027 tentative
+DESCRIPTION:Two-day meeting Apr 27-28 2027\; tentative until confirmed at 
+ the prior meeting. Source: federalreserve.gov. Decision 14:00 ET\, press 
+ conference 14:30 ET.
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20270609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270609T180000Z
+SUMMARY:🇺🇸 FOMC rate decision + SEP (14:00 ET) · 2027 tentative
+DESCRIPTION:Two-day meeting Jun 8-9 2027\; tentative until confirmed at th
+ e prior meeting. Source: federalreserve.gov. Decision 14:00 ET\, press co
+ nference 14:30 ET.
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20270728@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270728T180000Z
+SUMMARY:🇺🇸 FOMC rate decision (14:00 ET) · 2027 tentative
+DESCRIPTION:Two-day meeting Jul 27-28 2027\; tentative until confirmed at 
+ the prior meeting. Source: federalreserve.gov. Decision 14:00 ET\, press 
+ conference 14:30 ET.
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20270915@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270915T180000Z
+SUMMARY:🇺🇸 FOMC rate decision + SEP (14:00 ET) · 2027 tentative
+DESCRIPTION:Two-day meeting Sep 14-15 2027\; tentative until confirmed at 
+ the prior meeting. Source: federalreserve.gov. Decision 14:00 ET\, press 
+ conference 14:30 ET.
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20271027@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20271027T180000Z
+SUMMARY:🇺🇸 FOMC rate decision (14:00 ET) · 2027 tentative
+DESCRIPTION:Two-day meeting Oct 26-27 2027\; tentative until confirmed at 
+ the prior meeting. Source: federalreserve.gov. Decision 14:00 ET\, press 
+ conference 14:30 ET.
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20271208@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20271208T190000Z
+SUMMARY:🇺🇸 FOMC rate decision + SEP (14:00 ET) · 2027 tentative
+DESCRIPTION:Two-day meeting Dec 7-8 2027\; tentative until confirmed at th
+ e prior meeting. Source: federalreserve.gov. Decision 14:00 ET\, press co
+ nference 14:30 ET.
+END:VEVENT
+BEGIN:VEVENT
+UID:uscpi-202606@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260714T123000Z
+SUMMARY:🇺🇸 CPI — June (08:30 ET)
+DESCRIPTION:Source: BLS 2026 release schedule.
+END:VEVENT
+BEGIN:VEVENT
+UID:uscpi-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260812T123000Z
+SUMMARY:🇺🇸 CPI — July (08:30 ET)
+DESCRIPTION:Source: BLS 2026 release schedule.
+END:VEVENT
+BEGIN:VEVENT
+UID:uscpi-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260911T123000Z
+SUMMARY:🇺🇸 CPI — August (08:30 ET)
+DESCRIPTION:Source: BLS 2026 release schedule.
+END:VEVENT
+BEGIN:VEVENT
+UID:uscpi-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261014T123000Z
+SUMMARY:🇺🇸 CPI — September (08:30 ET)
+DESCRIPTION:Source: BLS 2026 release schedule.
+END:VEVENT
+BEGIN:VEVENT
+UID:uscpi-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261110T133000Z
+SUMMARY:🇺🇸 CPI — October (08:30 ET)
+DESCRIPTION:Source: BLS 2026 release schedule.
+END:VEVENT
+BEGIN:VEVENT
+UID:uscpi-202611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261210T133000Z
+SUMMARY:🇺🇸 CPI — November (08:30 ET)
+DESCRIPTION:Source: BLS 2026 release schedule.
+END:VEVENT
+BEGIN:VEVENT
+UID:usnfp-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260807T123000Z
+SUMMARY:🇺🇸 Employment Situation (NFP) — July (08:30 ET) · est
+DESCRIPTION:First-Friday convention\; confirm via the BLS ICS feed.
+END:VEVENT
+BEGIN:VEVENT
+UID:usnfp-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260904T123000Z
+SUMMARY:🇺🇸 Employment Situation (NFP) — August (08:30 ET) · est
+DESCRIPTION:First-Friday convention\; confirm via the BLS ICS feed.
+END:VEVENT
+BEGIN:VEVENT
+UID:usnfp-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261002T123000Z
+SUMMARY:🇺🇸 Employment Situation (NFP) — September (08:30 ET) · es
+ t
+DESCRIPTION:First-Friday convention\; confirm via the BLS ICS feed.
+END:VEVENT
+BEGIN:VEVENT
+UID:usnfp-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261106T133000Z
+SUMMARY:🇺🇸 Employment Situation (NFP) — October (08:30 ET) · est
+DESCRIPTION:First-Friday convention\; confirm via the BLS ICS feed.
+END:VEVENT
+BEGIN:VEVENT
+UID:usnfp-202611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261204T133000Z
+SUMMARY:🇺🇸 Employment Situation (NFP) — November (08:30 ET) · est
+DESCRIPTION:First-Friday convention\; confirm via the BLS ICS feed.
+END:VEVENT
+BEGIN:VEVENT
+UID:usgdp-q2adv@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260730T123000Z
+SUMMARY:🇺🇸 GDP Q2 advance + PCE (June) (08:30 ET)
+DESCRIPTION:Source: bea.gov 2026 release schedule (verified).
+END:VEVENT
+BEGIN:VEVENT
+UID:usgdp-q2sec@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260826T123000Z
+SUMMARY:🇺🇸 GDP Q2 second est. + PCE (July) (08:30 ET)
+DESCRIPTION:Source: bea.gov 2026 release schedule (verified).
+END:VEVENT
+BEGIN:VEVENT
+UID:usgdp-q2thr@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260930T123000Z
+SUMMARY:🇺🇸 GDP Q2 third est. + PCE (Aug) + BEA annual update (08:30 
+ ET)
+DESCRIPTION:Source: bea.gov 2026 release schedule (verified).
+END:VEVENT
+BEGIN:VEVENT
+UID:usgdp-q3adv@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261029T123000Z
+SUMMARY:🇺🇸 GDP Q3 advance + PCE (Sept) (08:30 ET)
+DESCRIPTION:Source: bea.gov 2026 release schedule (verified).
+END:VEVENT
+BEGIN:VEVENT
+UID:usgdp-q3sec@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261125T133000Z
+SUMMARY:🇺🇸 GDP Q3 second est. + PCE (Oct) (08:30 ET)
+DESCRIPTION:Source: bea.gov 2026 release schedule (verified).
+END:VEVENT
+BEGIN:VEVENT
+UID:usgdp-q3thr@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261223T133000Z
+SUMMARY:🇺🇸 GDP Q3 third est. + PCE (Nov) (08:30 ET)
+DESCRIPTION:Source: bea.gov 2026 release schedule (verified).
+END:VEVENT
+BEGIN:VEVENT
+UID:ustrade-202606@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260804T123000Z
+SUMMARY:🇺🇸 Trade balance — June (08:30 ET)
+DESCRIPTION:Source: bea.gov 2026 release schedule (verified).
+END:VEVENT
+BEGIN:VEVENT
+UID:ustrade-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260903T123000Z
+SUMMARY:🇺🇸 Trade balance — July (08:30 ET)
+DESCRIPTION:Source: bea.gov 2026 release schedule (verified).
+END:VEVENT
+BEGIN:VEVENT
+UID:ustrade-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261006T123000Z
+SUMMARY:🇺🇸 Trade balance — August (08:30 ET)
+DESCRIPTION:Source: bea.gov 2026 release schedule (verified).
+END:VEVENT
+BEGIN:VEVENT
+UID:ustrade-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261104T133000Z
+SUMMARY:🇺🇸 Trade balance — September (08:30 ET)
+DESCRIPTION:Source: bea.gov 2026 release schedule (verified).
+END:VEVENT
+BEGIN:VEVENT
+UID:ustrade-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261208T133000Z
+SUMMARY:🇺🇸 Trade balance — October (08:30 ET)
+DESCRIPTION:Source: bea.gov 2026 release schedule (verified).
+END:VEVENT
+BEGIN:VEVENT
+UID:usret-202606@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260716T123000Z
+SUMMARY:🇺🇸 Retail sales — June (08:30 ET) · est
+DESCRIPTION:Census mid-month convention\; confirm via Census indicator cal
+ endar.
+END:VEVENT
+BEGIN:VEVENT
+UID:usret-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260814T123000Z
+SUMMARY:🇺🇸 Retail sales — July (08:30 ET) · est
+DESCRIPTION:Census mid-month convention\; confirm via Census indicator cal
+ endar.
+END:VEVENT
+BEGIN:VEVENT
+UID:usret-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260916T123000Z
+SUMMARY:🇺🇸 Retail sales — August (08:30 ET) · est
+DESCRIPTION:Census mid-month convention\; confirm via Census indicator cal
+ endar.
+END:VEVENT
+BEGIN:VEVENT
+UID:usret-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261016T123000Z
+SUMMARY:🇺🇸 Retail sales — September (08:30 ET) · est
+DESCRIPTION:Census mid-month convention\; confirm via Census indicator cal
+ endar.
+END:VEVENT
+BEGIN:VEVENT
+UID:usret-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261117T133000Z
+SUMMARY:🇺🇸 Retail sales — October (08:30 ET) · est
+DESCRIPTION:Census mid-month convention\; confirm via Census indicator cal
+ endar.
+END:VEVENT
+BEGIN:VEVENT
+UID:usret-202611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261216T133000Z
+SUMMARY:🇺🇸 Retail sales — November (08:30 ET) · est
+DESCRIPTION:Census mid-month convention\; confirm via Census indicator cal
+ endar.
+END:VEVENT
+BEGIN:VEVENT
+UID:ismm-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260803T140000Z
+SUMMARY:🇺🇸 ISM Manufacturing PMI — July (10:00 ET) · est
+DESCRIPTION:First-business-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:ismm-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260901T140000Z
+SUMMARY:🇺🇸 ISM Manufacturing PMI — August (10:00 ET) · est
+DESCRIPTION:First-business-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:ismm-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261001T140000Z
+SUMMARY:🇺🇸 ISM Manufacturing PMI — September (10:00 ET) · est
+DESCRIPTION:First-business-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:ismm-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261102T150000Z
+SUMMARY:🇺🇸 ISM Manufacturing PMI — October (10:00 ET) · est
+DESCRIPTION:First-business-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:ismm-202611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261201T150000Z
+SUMMARY:🇺🇸 ISM Manufacturing PMI — November (10:00 ET) · est
+DESCRIPTION:First-business-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:isms-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260805T140000Z
+SUMMARY:🇺🇸 ISM Services PMI — July (10:00 ET) · est
+DESCRIPTION:Third-business-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:isms-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260903T140000Z
+SUMMARY:🇺🇸 ISM Services PMI — August (10:00 ET) · est
+DESCRIPTION:Third-business-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:isms-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261005T140000Z
+SUMMARY:🇺🇸 ISM Services PMI — September (10:00 ET) · est
+DESCRIPTION:Third-business-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:isms-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261104T150000Z
+SUMMARY:🇺🇸 ISM Services PMI — October (10:00 ET) · est
+DESCRIPTION:Third-business-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:isms-202611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261203T150000Z
+SUMMARY:🇺🇸 ISM Services PMI — November (10:00 ET) · est
+DESCRIPTION:Third-business-day convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:usqra-aug@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260805T123000Z
+SUMMARY:🇺🇸 Treasury quarterly refunding announcement (08:30 ET) · e
+ st
+DESCRIPTION:August refunding\; coupon auction sizes + issuance guidance. C
+ onfirm on treasurydirect.gov.
+END:VEVENT
+BEGIN:VEVENT
+UID:usqra-nov@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261104T133000Z
+SUMMARY:🇺🇸 Treasury quarterly refunding announcement (08:30 ET) · e
+ st
+DESCRIPTION:November refunding.
+END:VEVENT
+BEGIN:VEVENT
+UID:jhole-2026@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260830
+SUMMARY:🇺🇸 Jackson Hole Economic Symposium (Kansas City Fed)
+DESCRIPTION:27-29 Aug. Topic: Financial Innovation - Implications for Paym
+ ents and Policy. Fed Chair remarks typically Friday morning MT.
+END:VEVENT
+BEGIN:VEVENT
+UID:usfund-2027@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🇺🇸 US federal funding deadline — FY2027 begins
+DESCRIPTION:Appropriations lapse = shutdown risk (cf. Oct-Nov 2025 shutdow
+ n and its data disruption).
+END:VEVENT
+BEGIN:VEVENT
+UID:usmid-2026@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🇺🇸 US midterm elections
+DESCRIPTION:All 435 House seats\, 35 Senate seats\, 39 governorships. Key 
+ for fiscal path and 2027 policy.
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20260128@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260128T190000Z
+SUMMARY:🇺🇸 FOMC rate decision (14:00 ET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20260318@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260318T180000Z
+SUMMARY:🇺🇸 FOMC rate decision + SEP (14:00 ET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20260429@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260429T180000Z
+SUMMARY:🇺🇸 FOMC rate decision (14:00 ET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:fed-20260617@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260617T180000Z
+SUMMARY:🇺🇸 FOMC rate decision + SEP (14:00 ET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:fedmin-20260218@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260218T190000Z
+SUMMARY:🇺🇸 FOMC minutes (14:00 ET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:fedmin-20260408@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260408T180000Z
+SUMMARY:🇺🇸 FOMC minutes (14:00 ET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:fedmin-20260520@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260520T180000Z
+SUMMARY:🇺🇸 FOMC minutes (14:00 ET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:fedmin-20260708@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260708T180000Z
+SUMMARY:🇺🇸 FOMC minutes (14:00 ET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:uscpi-202512@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260113T133000Z
+SUMMARY:🇺🇸 CPI — December (08:30 ET) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:uscpi-202601@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260211T133000Z
+SUMMARY:🇺🇸 CPI — January (08:30 ET) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:uscpi-202602@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260311T123000Z
+SUMMARY:🇺🇸 CPI — February (08:30 ET) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:uscpi-202603@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260410T123000Z
+SUMMARY:🇺🇸 CPI — March (08:30 ET) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:uscpi-202604@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260512T123000Z
+SUMMARY:🇺🇸 CPI — April (08:30 ET) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:uscpi-202605@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260610T123000Z
+SUMMARY:🇺🇸 CPI — May (08:30 ET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:usnfp-202512@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260109T133000Z
+SUMMARY:🇺🇸 Employment Situation (NFP) — December (08:30 ET) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:usnfp-202601@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260206T133000Z
+SUMMARY:🇺🇸 Employment Situation (NFP) — January (08:30 ET) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:usnfp-202602@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260306T133000Z
+SUMMARY:🇺🇸 Employment Situation (NFP) — February (08:30 ET) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:usnfp-202603@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260403T123000Z
+SUMMARY:🇺🇸 Employment Situation (NFP) — March (08:30 ET) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:usnfp-202604@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260508T123000Z
+SUMMARY:🇺🇸 Employment Situation (NFP) — April (08:30 ET) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:usnfp-202605@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260605T123000Z
+SUMMARY:🇺🇸 Employment Situation (NFP) — May (08:30 ET) · est
+DESCRIPTION:Historical (H1 2026) · est.
+END:VEVENT
+BEGIN:VEVENT
+UID:usnfp-202606@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260702T123000Z
+SUMMARY:🇺🇸 Employment Situation (NFP) — June (08:30 ET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:usgdp-q1thr@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260625T123000Z
+SUMMARY:🇺🇸 GDP Q1 third est. + PCE (May) (08:30 ET)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:rr-usnfp@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20270205T133000Z
+RRULE:FREQ=MONTHLY;BYDAY=1FR;UNTIL=20310801T000000Z
+SUMMARY:🇺🇸 Employment Situation (NFP) — first Friday (08:30 ET) ·
+  recurring est
+DESCRIPTION:Recurring convention rule projected to 2031 · est. Time is fi
+ xed in UTC so it drifts 1h across DST\; dates can shift around weekends/h
+ olidays. Near-term precision: use the fixed events / live feeds\, or ask 
+ Claude to true-up (see CLAUDE.md).
+END:VEVENT
+BEGIN:VEVENT
+UID:uspres-2028@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20281107
+DTEND;VALUE=DATE:20281108
+SUMMARY:🇺🇸 US presidential + congressional elections
+DESCRIPTION:Fixed by law: Tuesday after first Monday of November.
+END:VEVENT
+BEGIN:VEVENT
+UID:usmid-2030@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART;VALUE=DATE:20301105
+DTEND;VALUE=DATE:20301106
+SUMMARY:🇺🇸 US midterm elections
+DESCRIPTION:Fixed by law.
+END:VEVENT
+END:VCALENDAR

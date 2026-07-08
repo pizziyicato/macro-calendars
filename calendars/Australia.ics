@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇦🇺 Australia
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:rba-20260811@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260811T043000Z
+SUMMARY:🇦🇺 RBA cash rate decision + SoMP (14:30 Sydney)
+DESCRIPTION:Two-day Monetary Policy Board meeting Aug 10-11 2026. Source: 
+ rba.gov.au. Press conference 15:30\; minutes two weeks later.
+END:VEVENT
+BEGIN:VEVENT
+UID:rba-20260929@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260929T043000Z
+SUMMARY:🇦🇺 RBA cash rate decision (14:30 Sydney)
+DESCRIPTION:Two-day Monetary Policy Board meeting Sep 28-29 2026. Source: 
+ rba.gov.au. Press conference 15:30\; minutes two weeks later.
+END:VEVENT
+BEGIN:VEVENT
+UID:rba-20261103@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261103T033000Z
+SUMMARY:🇦🇺 RBA cash rate decision + SoMP (14:30 Sydney)
+DESCRIPTION:Two-day Monetary Policy Board meeting Nov 2-3 2026. Source: rb
+ a.gov.au. Press conference 15:30\; minutes two weeks later.
+END:VEVENT
+BEGIN:VEVENT
+UID:rba-20261208@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261208T033000Z
+SUMMARY:🇦🇺 RBA cash rate decision (14:30 Sydney)
+DESCRIPTION:Two-day Monetary Policy Board meeting Dec 7-8 2026. Source: rb
+ a.gov.au. Press conference 15:30\; minutes two weeks later.
+END:VEVENT
+BEGIN:VEVENT
+UID:aucpi-q2@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260729T013000Z
+SUMMARY:🇦🇺 Q2 CPI (11:30 Sydney) · est
+DESCRIPTION:Quarterly CPI\, last-Wednesday-of-July convention\; confirm on
+  abs.gov.au.
+END:VEVENT
+BEGIN:VEVENT
+UID:aucpi-q3@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261028T003000Z
+SUMMARY:🇦🇺 Q3 CPI (11:30 Sydney) · est
+DESCRIPTION:Late-October convention.
+END:VEVENT
+BEGIN:VEVENT
+UID:aujobs-202606@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260716T013000Z
+SUMMARY:🇦🇺 Labour force — June (11:30 local) · est
+DESCRIPTION:~Third-Thursday convention\; confirm on abs.gov.au.
+END:VEVENT
+BEGIN:VEVENT
+UID:aujobs-202607@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260813T013000Z
+SUMMARY:🇦🇺 Labour force — July (11:30 local) · est
+DESCRIPTION:~Third-Thursday convention\; confirm on abs.gov.au.
+END:VEVENT
+BEGIN:VEVENT
+UID:aujobs-202608@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260917T013000Z
+SUMMARY:🇦🇺 Labour force — August (11:30 local) · est
+DESCRIPTION:~Third-Thursday convention\; confirm on abs.gov.au.
+END:VEVENT
+BEGIN:VEVENT
+UID:aujobs-202609@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261015T013000Z
+SUMMARY:🇦🇺 Labour force — September (11:30 local) · est
+DESCRIPTION:~Third-Thursday convention\; confirm on abs.gov.au.
+END:VEVENT
+BEGIN:VEVENT
+UID:aujobs-202610@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261119T003000Z
+SUMMARY:🇦🇺 Labour force — October (11:30 local) · est
+DESCRIPTION:~Third-Thursday convention\; confirm on abs.gov.au.
+END:VEVENT
+BEGIN:VEVENT
+UID:aujobs-202611@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261217T003000Z
+SUMMARY:🇦🇺 Labour force — November (11:30 local) · est
+DESCRIPTION:~Third-Thursday convention\; confirm on abs.gov.au.
+END:VEVENT
+BEGIN:VEVENT
+UID:rba-20260203@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260203T033000Z
+SUMMARY:🇦🇺 RBA cash rate decision + SoMP (25bp hike) (14:30 Sydney)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:rba-20260317@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260317T033000Z
+SUMMARY:🇦🇺 RBA cash rate decision (25bp hike) (14:30 Sydney)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:rba-20260505@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260505T043000Z
+SUMMARY:🇦🇺 RBA cash rate decision + SoMP (25bp hike to 4.35%) (14:30
+  Sydney)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+BEGIN:VEVENT
+UID:rba-20260707@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260707T043000Z
+SUMMARY:🇦🇺 RBA cash rate decision (14:30 Sydney)
+DESCRIPTION:Historical (H1 2026).
+END:VEVENT
+END:VCALENDAR

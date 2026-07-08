@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇰🇿 Kazakhstan
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nbk-20260717@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260717T070000Z
+SUMMARY:🇰🇿 NBK base rate decision (~12:00 Almaty) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:nbk-20260828@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260828T070000Z
+SUMMARY:🇰🇿 NBK base rate decision (~12:00 Almaty) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:nbk-20261009@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261009T070000Z
+SUMMARY:🇰🇿 NBK base rate decision (~12:00 Almaty) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:nbk-20261127@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261127T070000Z
+SUMMARY:🇰🇿 NBK base rate decision (~12:00 Almaty) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+END:VCALENDAR

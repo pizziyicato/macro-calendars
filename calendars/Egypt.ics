@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇪🇬 Egypt
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:cbe-20260827@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260827T150000Z
+SUMMARY:🇪🇬 CBE MPC rate decision (evening Cairo) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbe-20261001@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261001T150000Z
+SUMMARY:🇪🇬 CBE MPC rate decision (evening Cairo) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbe-20261119@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261119T160000Z
+SUMMARY:🇪🇬 CBE MPC rate decision (evening Cairo) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+BEGIN:VEVENT
+UID:cbe-20261224@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261224T160000Z
+SUMMARY:🇪🇬 CBE MPC rate decision (evening Cairo) · est
+DESCRIPTION:Pattern-derived date\; confirm on the central bank's site befo
+ re trading it.
+END:VEVENT
+END:VCALENDAR

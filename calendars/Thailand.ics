@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇹🇭 Thailand
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:bot-20260805@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260805T070000Z
+SUMMARY:🇹🇭 Bank of Thailand MPC rate decision (14:00 BKK) · est
+DESCRIPTION:5 Aug. Wednesday convention\; confirm on bot.or.th (policy rat
+ e at 1.00%).
+END:VEVENT
+BEGIN:VEVENT
+UID:bot-20261007@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261007T070000Z
+SUMMARY:🇹🇭 Bank of Thailand MPC rate decision (14:00 BKK) · est
+DESCRIPTION:7 Oct. Wednesday convention\; confirm on bot.or.th (policy rat
+ e at 1.00%).
+END:VEVENT
+BEGIN:VEVENT
+UID:bot-20261216@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261216T070000Z
+SUMMARY:🇹🇭 Bank of Thailand MPC rate decision (14:00 BKK) · est
+DESCRIPTION:16 Dec. Wednesday convention\; confirm on bot.or.th (policy ra
+ te at 1.00%).
+END:VEVENT
+END:VCALENDAR

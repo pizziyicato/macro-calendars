@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ziyi//macro-2026-split//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇵🇱 Poland
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+UID:nbp-20260902@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20260902T100000Z
+SUMMARY:🇵🇱 NBP rate decision (early afternoon Warsaw) · est
+DESCRIPTION:MPC meeting 1-2 Sep\; announcement time varies (~midday-aftern
+ oon). First-week Tue/Wed convention\, no Aug meeting\; confirm on nbp.pl.
+END:VEVENT
+BEGIN:VEVENT
+UID:nbp-20261007@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261007T100000Z
+SUMMARY:🇵🇱 NBP rate decision (early afternoon Warsaw) · est
+DESCRIPTION:MPC meeting 6-7 Oct\; announcement time varies (~midday-aftern
+ oon). First-week Tue/Wed convention\, no Aug meeting\; confirm on nbp.pl.
+END:VEVENT
+BEGIN:VEVENT
+UID:nbp-20261104@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261104T110000Z
+SUMMARY:🇵🇱 NBP rate decision (early afternoon Warsaw) · est
+DESCRIPTION:MPC meeting 3-4 Nov\; announcement time varies (~midday-aftern
+ oon). First-week Tue/Wed convention\, no Aug meeting\; confirm on nbp.pl.
+END:VEVENT
+BEGIN:VEVENT
+UID:nbp-20261202@ziyi-macro
+DTSTAMP:20260708T000000Z
+DTSTART:20261202T110000Z
+SUMMARY:🇵🇱 NBP rate decision (early afternoon Warsaw) · est
+DESCRIPTION:MPC meeting 1-2 Dec\; announcement time varies (~midday-aftern
+ oon). First-week Tue/Wed convention\, no Aug meeting\; confirm on nbp.pl.
+END:VEVENT
+END:VCALENDAR
