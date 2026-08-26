@@ -8,13 +8,20 @@ X-WR-CALDESC:Every European Central Bank Governing Council monetary-policy
  meeting and accounts (minutes-equivalent) release. Monetary-policy decisio
  ns are timed at 14:15 CET with the press conference at 14:45 CET. ECB staf
  f macroeconomic projections are published alongside decisions in March\, J
- une\, September\, and December.
+ une\, September\, and December.\n\nCould not fully verify in this refresh:
+  Upcoming European Central Bank (ECB) Governing Council monetary policy me
+ eting dates and accounts (minutes equivalent) release dates during 2026 an
+ d 2027. For each meeting include: the policy decision day with statement a
+ t 14:15 CET and press conference at 14:45 CET\, and the corresponding mone
+ tary policy accounts release approximately four weeks after the meeting. E
+ CB staff macroeconomic projections are published alongside the March\, Jun
+ e\, September\, and D
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.78a644f12996744bd987e390ad84588d@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
 SEQUENCE:0
@@ -27,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.b4d78f7e3a35431f368770e14bc466c1@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260710
 SEQUENCE:0
@@ -40,14 +47,14 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:PT9H
-UID:1787676902760-792607@smartcalendars.ai
-X-WR-ALARMUID:1787676902760-792607@smartcalendars.ai
+UID:1787693319820-780802@smartcalendars.ai
+X-WR-ALARMUID:1787693319820-780802@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.6e0471f958852268a58e6a896776c207@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART;VALUE=DATE:20260820
 DTEND;VALUE=DATE:20260821
 SEQUENCE:0
@@ -60,134 +67,211 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:PT9H
-UID:1787676902761-12543@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-12543@smartcalendars.ai
+UID:1787693319820-322348@smartcalendars.ai
+X-WR-ALARMUID:1787693319820-322348@smartcalendars.ai
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.75adee987a58adcf5fe076973eec99ac@s
+ martcalendars.ai
+DTSTAMP:20260825T212839Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:Governing Council of the ECB: monetary policy meeting h
+ osted by the Deutsche Bundesbank (Day 1)
+LOCATION;LANGUAGE=en:Germany (hosted by the Deutsche Bundesbank)
+DESCRIPTION;LANGUAGE=en:First day of the monetary policy meeting hosted by 
+ the Deutsche Bundesbank.
+CATEGORIES:Finance
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.0d3cf217327a71aa18f637335f014c35@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Monetary Policy Accounts Release
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Release of the monetary policy accounts (minutes-eq
- uivalent) for the September 2026 meeting.
+DESCRIPTION;LANGUAGE=en:ECB monetary-policy accounts release.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:PT9H
-UID:1787676902761-43140@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-43140@smartcalendars.ai
+UID:1787693319821-354732@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-354732@smartcalendars.ai
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.dd13edc9eef7fbf008d4ec8c1ec67709@s
+ martcalendars.ai
+DTSTAMP:20260825T212839Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Meeting (Day 1)
+LOCATION;LANGUAGE=en:Frankfurt\, Germany
+DESCRIPTION;LANGUAGE=en:First day of the ECB Governing Council monetary pol
+ icy meeting.
+CATEGORIES:Finance
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.d27a9efbd87566a10f5e2ca6f8b1cdd9@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Monetary Policy Accounts Release
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Release of the monetary policy accounts (minutes-eq
- uivalent) for the October 2026 meeting.
+DESCRIPTION;LANGUAGE=en:ECB monetary-policy accounts release.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:PT9H
-UID:1787676902761-157061@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-157061@smartcalendars.ai
+UID:1787693319821-77664@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-77664@smartcalendars.ai
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.8915927b769ad90c7e0bcd4efad5f382@s
+ martcalendars.ai
+DTSTAMP:20260825T212839Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Meeting & Macroec
+ onomic Projections
+LOCATION;LANGUAGE=en:Frankfurt\, Germany
+DESCRIPTION;LANGUAGE=en:First day of the ECB Governing Council monetary pol
+ icy meeting\, including the release of ECB staff macroeconomic projections
+ .
+CATEGORIES:Finance
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.180f0bd666401de11a6f873b05fbbd4f@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Monetary Policy Accounts Release
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Release of the monetary policy accounts (minutes-eq
- uivalent) for the December 2026 meeting.
+DESCRIPTION;LANGUAGE=en:ECB monetary-policy accounts release.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:PT9H
-UID:1787676902761-828054@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-828054@smartcalendars.ai
+UID:1787693319821-547686@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-547686@smartcalendars.ai
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.873e84a2d901fb7b34665644bc4838cb@s
+ martcalendars.ai
+DTSTAMP:20260825T212839Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Meeting (Day 1)
+LOCATION;LANGUAGE=en:Frankfurt\, Germany
+DESCRIPTION;LANGUAGE=en:First day of the ECB Governing Council monetary pol
+ icy meeting.
+CATEGORIES:Finance
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.765cb5e5dc8eb45439b2d995bc75c92c@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Monetary Policy Accounts Release
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Release of the monetary policy accounts (minutes-eq
- uivalent) for the February 2027 meeting.
+DESCRIPTION;LANGUAGE=en:ECB monetary-policy accounts release.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:PT9H
-UID:1787676902761-606679@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-606679@smartcalendars.ai
+UID:1787693319821-453677@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-453677@smartcalendars.ai
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.8393e6e55d3bd8945a8396f7a40df9fb@s
+ martcalendars.ai
+DTSTAMP:20260825T212839Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Meeting (Day 1)
+LOCATION;LANGUAGE=en:Frankfurt\, Germany
+DESCRIPTION;LANGUAGE=en:First day of the ECB Governing Council monetary pol
+ icy meeting\, including the release of ECB staff macroeconomic projections
+ .
+CATEGORIES:Finance
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.5d1eaf2655e86fd82b098446ffa602b8@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Monetary Policy Accounts Release
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Release of the monetary policy accounts (minutes-eq
- uivalent) for the March 2027 meeting.
+DESCRIPTION;LANGUAGE=en:ECB monetary-policy accounts release.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:PT9H
-UID:1787676902761-880426@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-880426@smartcalendars.ai
+UID:1787693319821-272341@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-272341@smartcalendars.ai
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.56752647a16e209a07606938621b099c@s
+ martcalendars.ai
+DTSTAMP:20260825T212839Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Meeting Day 1
+LOCATION;LANGUAGE=en:Sonnemannstrasse 20\, 60314 Frankfurt am Main\, German
+ y
+DESCRIPTION;LANGUAGE=en:First day of the Governing Council monetary policy 
+ meeting.
+CATEGORIES:Finance
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.b46d58d1171756c7d85a3fece9934ac5@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Monetary Policy Accounts Release
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Release of the monetary policy accounts (minutes-eq
- uivalent) for the April 2027 meeting.
+DESCRIPTION;LANGUAGE=en:ECB monetary-policy accounts release.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:PT9H
-UID:1787676902761-496035@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-496035@smartcalendars.ai
+UID:1787693319821-798455@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-798455@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.fed0deab4a6d02da72d09b9692967fc9@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20260611T121500Z
 SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
@@ -199,14 +283,14 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-428577@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-428577@smartcalendars.ai
+UID:1787693319821-429287@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-429287@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.26a6dfa23eae61a60238dd29ecf46a58@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20260611T124500Z
 SEQUENCE:0
 SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
@@ -218,14 +302,14 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-800408@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-800408@smartcalendars.ai
+UID:1787693319821-722620@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-722620@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.daed9a98f1951ed707af128500ec15ed@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20260723T121500Z
 SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
@@ -236,14 +320,14 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-328796@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-328796@smartcalendars.ai
+UID:1787693319821-169574@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-169574@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.3cc7b596fd7f99a6656944dcac85b9a1@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20260723T124500Z
 SEQUENCE:0
 SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
@@ -255,233 +339,241 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-630836@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-630836@smartcalendars.ai
+UID:1787693319821-5064@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-5064@smartcalendars.ai
 END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.699642bcfd3b1cd09c9acce7f8fb870d@s
+ martcalendars.ai
+DTSTAMP:20260825T212839Z
+DTSTART:20260910T121500Z
+DTEND:20260910T124500Z
+SEQUENCE:0
+SUMMARY;LANGUAGE=en:ECB Monetary Policy Decision Statement & Macroeconomic 
+ Projections
+LOCATION;LANGUAGE=en:Deutsche Bundesbank\, Frankfurt\, Germany
+DESCRIPTION;LANGUAGE=en:Governing Council monetary policy decision statemen
+ t and release of ECB staff macroeconomic projections.
+CATEGORIES:Finance
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.ffc87021f2296a3c5a75b333644f8be6@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20260910T121500Z
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Monetary policy decision statement release. ECB sta
- ff macroeconomic projections are published alongside this decision.
+DESCRIPTION;LANGUAGE=en:ECB Governing Council monetary-policy decision. Inc
+ ludes ECB staff macroeconomic projections.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-912564@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-912564@smartcalendars.ai
+UID:1787693319821-588124@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-588124@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.40efb3778ce7a66c033d0ab8527c5f47@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20260910T124500Z
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Press conference following the monetary policy deci
- sion.
+DESCRIPTION;LANGUAGE=en:ECB Governing Council press conference.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-206945@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-206945@smartcalendars.ai
+UID:1787693319821-275716@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-275716@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.2c72ae296e621fa96854dbd0dbc3e5ce@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20261029T131500Z
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Monetary policy decision statement release.
+DESCRIPTION;LANGUAGE=en:ECB Governing Council monetary-policy decision.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-809495@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-809495@smartcalendars.ai
+UID:1787693319821-881749@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-881749@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.3638345f99f9e2004f2bdfa9a98ce280@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20261029T134500Z
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Press conference following the monetary policy deci
- sion.
+DESCRIPTION;LANGUAGE=en:ECB Governing Council press conference.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-590296@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-590296@smartcalendars.ai
+UID:1787693319821-111836@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-111836@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.1c3dee18c12b771ad97a33a842f1c6d7@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20261217T131500Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Monetary policy decision statement release. ECB sta
- ff macroeconomic projections are published alongside this decision.
+DESCRIPTION;LANGUAGE=en:ECB Governing Council monetary-policy decision. Inc
+ ludes ECB staff macroeconomic projections.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-526743@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-526743@smartcalendars.ai
+UID:1787693319821-260163@smartcalendars.ai
+X-WR-ALARMUID:1787693319821-260163@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.f7d093dd6688c170652cbe0130237e9c@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20261217T134500Z
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Press conference following the monetary policy deci
- sion.
+DESCRIPTION;LANGUAGE=en:ECB Governing Council press conference.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-399871@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-399871@smartcalendars.ai
+UID:1787693319822-713131@smartcalendars.ai
+X-WR-ALARMUID:1787693319822-713131@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.0826debc1c3464cc5793acb6b8bc2268@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20270204T131500Z
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Monetary policy decision statement release.
+DESCRIPTION;LANGUAGE=en:ECB Governing Council monetary-policy decision.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-174390@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-174390@smartcalendars.ai
+UID:1787693319822-79539@smartcalendars.ai
+X-WR-ALARMUID:1787693319822-79539@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.41f15ec08eaa0576c1cf3358216972cf@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20270204T134500Z
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Press conference following the monetary policy deci
- sion.
+DESCRIPTION;LANGUAGE=en:ECB Governing Council press conference.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-392375@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-392375@smartcalendars.ai
+UID:1787693319822-256585@smartcalendars.ai
+X-WR-ALARMUID:1787693319822-256585@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.ed45ac6ee7b1ec7f5bc9cfd44c670972@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20270318T131500Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Monetary policy decision statement release. ECB sta
- ff macroeconomic projections are published alongside this decision.
+DESCRIPTION;LANGUAGE=en:ECB Governing Council monetary-policy decision. Inc
+ ludes ECB staff macroeconomic projections.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-101771@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-101771@smartcalendars.ai
+UID:1787693319822-93317@smartcalendars.ai
+X-WR-ALARMUID:1787693319822-93317@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.f175fbd62a520ee13e66aafb33d2766b@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20270318T134500Z
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Press conference following the monetary policy deci
- sion.
+DESCRIPTION;LANGUAGE=en:ECB Governing Council press conference.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-513463@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-513463@smartcalendars.ai
+UID:1787693319822-639002@smartcalendars.ai
+X-WR-ALARMUID:1787693319822-639002@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.eac385035ce35661656274ee6d084dfc@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20270429T121500Z
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Governing Council Monetary Policy Decision
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Monetary policy decision statement release.
+DESCRIPTION;LANGUAGE=en:ECB Governing Council monetary-policy decision.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-30159@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-30159@smartcalendars.ai
+UID:1787693319822-61579@smartcalendars.ai
+X-WR-ALARMUID:1787693319822-61579@smartcalendars.ai
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2d4dad13-2f70-451c-b316-bd2ccd4d880b.ca1075af6ea41a13de874b46437ad161@s
  martcalendars.ai
-DTSTAMP:20260825T165502Z
+DTSTAMP:20260825T212839Z
 DTSTART:20270429T124500Z
-SEQUENCE:0
+SEQUENCE:1
 SUMMARY;LANGUAGE=en:ECB Governing Council Press Conference
 LOCATION;LANGUAGE=en:Frankfurt am Main\, Germany
-DESCRIPTION;LANGUAGE=en:Press conference following the monetary policy deci
- sion.
+DESCRIPTION;LANGUAGE=en:ECB Governing Council press conference.
 CATEGORIES:Finance
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT15M
-UID:1787676902761-386513@smartcalendars.ai
-X-WR-ALARMUID:1787676902761-386513@smartcalendars.ai
+UID:1787693319822-5139@smartcalendars.ai
+X-WR-ALARMUID:1787693319822-5139@smartcalendars.ai
 END:VALARM
 END:VEVENT
 END:VCALENDAR
